@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋, I'm Sachintha Wijenayake</h2>
 - 🔭 I’m currently working on Associate Software Engineering <br/>
-- 🌱 I’m currently learning Spring Boot,Flutter <br/>
 - ⚡ Fun fact I ❤ Photography
 
 <h3 align="left">Connect with me:</h3>
